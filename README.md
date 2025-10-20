@@ -25,53 +25,19 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=guilhermeedduardo&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeedduardo&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
----
-
-### 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,mysql,sqlite,html,css,js,react,git,github,vscode" />
-</p>
-
-
 ### 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermeedduardo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:guilherme.edduardo@gmail.com">
+  <a href="mailto:guilhermeeduardoaparecido@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/guilhermeedduardo" target="_blank">
+  <a href="https://github.com/Guilhermeeduardo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guilhermeedduardo&theme=radical&no-frame=true&margin-w=10&column=7" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
 
 <p align="center">
   <b>"Code is like humor. When you have to explain it, it's bad."</b>
