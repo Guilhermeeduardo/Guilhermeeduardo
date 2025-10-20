@@ -38,9 +38,12 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Guilhermeeduardo/Guilhermeeduardo/output/github-snake.svg" alt="snake game" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilhermeeduardo/Guilhermeeduardo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilhermeeduardo/Guilhermeeduardo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guilhermeeduardo/Guilhermeeduardo/output/pacman-contribution-graph.svg">
+</picture>
+
 
 <p align="center">
   <b>"Code is like humor. When you have to explain it, it's bad."</b>
