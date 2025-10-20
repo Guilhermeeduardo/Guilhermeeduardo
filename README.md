@@ -38,6 +38,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Guilhermeeduardo/Guilhermeeduardo/output/github-snake.svg" alt="snake game" />
+</p>
 
 <p align="center">
   <b>"Code is like humor. When you have to explain it, it's bad."</b>
