@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Guilherme+Eduardo!;💻+Data+and+Software+Enthusiast;🚀+Always+Learning+and+Building+New+Projects" alt="Typing animation" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Guilherme+Eduardo!;+Data+and+Software+Enthusiast;🚀+Always+Learning!;" />
 
 
 <p align="center">
