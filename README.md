@@ -18,7 +18,7 @@
 
 ### 🧠 About Me  
 🎓 Passionate about **Data Scientist**, **Software Development**, and **Technology Innovation**.  
-📊 Skilled in **Python**, **SQL**, **Pandas**, **Matplotlib**, and **API Integration**.  
+📊 Skilled in **Python**, **SQL**, **Pandas**, **Matplotlib**.  
 ⚙️ Focused on creating practical projects that combine **data, design, and intelligence**.  
 🚀 Currently exploring **API Integration**, **Machine Learning**, and **Cloud Solutions (AWS)**.  
 
